@@ -1,7 +1,7 @@
+import Game from "./Game/Game";
 function App() {
   return (
-    <div>
-    </div>
+    <Game />
   );
 }
 
