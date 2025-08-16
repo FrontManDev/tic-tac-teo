@@ -71,3 +71,14 @@
 .resetbutton button:hover {
     scale: 1.01;
 }
+
+@media (max-width: 600px) {
+    .buttons {
+        width: 95%;
+        gap: 0.3rem;
+    }
+    
+    .container {
+        padding: 0.5rem;
+    }
+}
